@@ -8,9 +8,9 @@ For improving my knowledge and English, I decide to follow the timeline, walk th
 
 Thanks for Andy, my teacher in Meten, who suggest me learning this way.
 
-# Preschool & K-4
+## Preschool & K-4
 
-## Online Learning
+### Online Learning
 
 - [abcya](https://www.abcya.com/grades/prek/holiday), a free online game for pre-k
     - [x] ABC and 124 Magnets
@@ -50,7 +50,7 @@ Thanks for Andy, my teacher in Meten, who suggest me learning this way.
     - [x] [HOW TO CATCH A LEPRECHAUN](https://www.youtube.com/watch?v=LdKTCtypLlw) encourages imagination
     - [x] [Busy World of Richard Scarry](https://www.youtube.com/watch?v=FDJF8NawlHo) for kid
 
-## Other Books
+### Other Books
 
 - [ ] "The Very Hungry Caterpillar" by Eric Carle
 - [ ] "Brown Bear, Brown Bear, What Do You See?" by Bill Martin Jr. and Eric Carle
@@ -62,9 +62,9 @@ Thanks for Andy, my teacher in Meten, who suggest me learning this way.
 - [ ] "Percy Jackson & the Olympians" series by Rick Riordan
 - [ ] "Diary of a Wimpy Kid" by Jeff Kinney
 
-# Middle School to 18+
+## Middle School to 18+
 
-## Online Course
+### Online Course
 
 - [Khan Academy](https://www.khanacademy.org/)
 - [Today's Puzzmo](https://www.puzzmo.com/+/ctinsider/today)
@@ -80,7 +80,7 @@ Thanks for Andy, my teacher in Meten, who suggest me learning this way.
 - [Academy Earth](https://academicearth.org/universities/?utm_source=chatgpt.com)
 - [8000+ OpenCourseWare Courses from Top Institutions](https://www.classcentral.com/report/ocw-courses/?utm_source=chatgpt.com)
 
-## Books, Movies & Others
+### Books, Movies & Others
 
 - [ ] "Percy Jackson & the Olympians: The Lightning Thief" by Rick Riordan
 - [ ] "The Hunger Games" by Suzanne Collins
