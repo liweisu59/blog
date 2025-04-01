@@ -1,16 +1,14 @@
 ---
-title: "Astro Sphere"
-description: "Portfolio and blog build with astro."
-date: "Mar 18 2024"
+title: "Build your own shell"
+description: "Build my own shell using C++"
+date: "Apr 29 2025"
 demoURL: "https://astro-sphere-demo.vercel.app"
 repoURL: "https://github.com/markhorn-dev/astro-sphere"
 ---
 
-![Astro Sphere Lighthouse Score](/astro-sphere.jpg)
+https://backend.codecrafters.io/progress/shell/31af9122-25b2-4585-adce-60bb1ee7c1f6
 
-Astro Sphere is a static, minimalist, lightweight, lightning fast portfolio and blog theme based on my personal website.
-
-It is primarily Astro, Tailwind and Typescript, with a very small amount of SolidJS for stateful components.
+"Build your own shell" is a Codecrafters project that involves creating a simple shell using C++. The project is designed to help you understand how shells work and to give you hands-on experience with system programming.
 
 ## 🚀 Deploy your own
 
