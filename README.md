@@ -11,7 +11,7 @@ To run this blog locally:
 
 1. Clone the repo:
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/liweisu59/blog.git
     ```
 2. Install dependencies:
     ```bash
@@ -23,8 +23,8 @@ To run this blog locally:
     ```
 
 ## 🔗 Links
-- [Your LinkedIn/Twitter/Personal Site]
-- [GitHub Profile]
+- [Blog](https://blog.liweisu59.xyz)
+- [GitHub Repo](https://github.com/liweisu59/blog)
 
 ---
 
