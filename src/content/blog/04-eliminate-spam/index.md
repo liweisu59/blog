@@ -1,6 +1,6 @@
 ---
 title: "Aggressive Way To Eliminate Spam"
-description: "Disappear in my eyes!"
+description: "Disappear from my eyes!"
 date: "Apr 3 2025"
 ---
 
