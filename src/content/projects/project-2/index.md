@@ -1,5 +1,5 @@
 ---
-title: "Build your own Redis"
+title: "Redis Speedrun"
 description: "Build my own redis using C++"
 date: "Apr 3 2025"
 repoURL: "https://github.com/liweisu59/codecrafters-redis-cpp"

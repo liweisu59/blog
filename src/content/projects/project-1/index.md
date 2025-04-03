@@ -1,7 +1,8 @@
 ---
-title: "Build your own shell"
+title: "Shell Speedrun"
 description: "Build my own shell using C++"
 date: "Mar 29 2025"
+deadline: "Apr 5 2025"
 repoURL: "https://github.com/liweisu59/codecrafters-shell-cpp"
 ---
 
