@@ -1,6 +1,6 @@
 ---
 title: "Books in April"
-description: "Look at this, what did I find!"
+description: "Think, Read, Practise"
 date: "Apr 2 2025"
 ---
 
