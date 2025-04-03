@@ -1,13 +1,11 @@
 ---
-title: "Build your own shell"
+title: "Shell Speedrun"
 description: "Build my own shell using C++"
-date: "Apr 29 2025"
-demoURL: "https://astro-sphere-demo.vercel.app"
+date: "Mar 29 2025"
+deadline: "Apr 5 2025"
 repoURL: "https://github.com/liweisu59/codecrafters-shell-cpp"
 ---
 
-<img src="https://backend.codecrafters.io/progress/shell/31af9122-25b2-4585-adce-60bb1ee7c1f6" alt="Build your own shell" width="100%" />
+[![progress-banner](https://backend.codecrafters.io/progress/shell/31af9122-25b2-4585-adce-60bb1ee7c1f6)](https://app.codecrafters.io/users/liweisu59)
 
-"Build your own shell" is a Codecrafters project that involves creating a simple shell using C++. The project is designed to help you understand how shells work and to give you hands-on experience with system programming.
-
-## 🚀 Deploy your own
+Speedrun of building a shell using cpp

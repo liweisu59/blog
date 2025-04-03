@@ -4,9 +4,11 @@ description: "Jump into English!"
 date: "Apr 1 2025"
 ---
 
-For improving my knowledge and English, I decide to follow the timeline, walk through the raise-up experience like a American boy born in 01s.
+![build language from kid](banner.png)
 
-Thanks for Andy, my teacher in Meten, who suggest me learning this way.
+For improving my knowledge and English, I decide to follow the timeline, walk through the raise-up experience like a American boy born in 00s.
+
+Thanks for Andy, my teacher in Meten, who suggest me learn it this way.
 
 ## Preschool & K-4
 

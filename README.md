@@ -1,6 +1,6 @@
-# Personal Blog
+# Start
 
-Welcome to my personal blog! Here I share thoughts, projects, and insights.
+This is the personal blog repo.
 
 ## 🚀 About
 I'm **Liwei Su**. This blog is built with **Astro** and covers topics like c++, linux.
