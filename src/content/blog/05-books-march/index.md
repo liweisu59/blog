@@ -2,8 +2,7 @@
 title: "Books in March"
 description: "Think, Read, Practise"
 date: "Mar 25 2025"
-Roland Love To Read(my youtube channel): "https://www.youtube.com/channel/UCkv-YKowhQK1QItzXCqUQ0A"
-this month: "not yet"
+video: "not yet"
 ---
 
 Reading to me, is to answer the questions in mind, and practise them on earth.

@@ -39,6 +39,6 @@ export const SOCIALS: Socials = [
   },
   {
     NAME: "youtube",
-    HREF: "https://www.youtube.com/@liweisu59",
+    HREF: "https://www.youtube.com/channel/UCkv-YKowhQK1QItzXCqUQ0A",
   }
 ];
