@@ -2,11 +2,11 @@
 title: "Books in March"
 description: "Think, Read, Practise"
 date: "Mar 25 2025"
-youtube channel: "https://www.youtube.com/channel/UCkv-YKowhQK1QItzXCqUQ0A"
-this video: "not yet"
+Roland Love To Read(my youtube channel): "https://www.youtube.com/channel/UCkv-YKowhQK1QItzXCqUQ0A"
+this month: "not yet"
 ---
 
-I read books is to answer the question in my mind, and practise it on earth.
+Reading to me, is to answer the questions in mind, and practise them on earth.
 
 ## How to read fast?
 - The speed reading book
