@@ -22,3 +22,8 @@ Then, clear the data of the default messaging app that phone come with
 ![clear data](clear-data.jpg)
 
 Ok, well done! Since Google Service is banned in China, I won't receive any messages from ISP or something like that!
+
+## Comments
+
+<script src="https://cdn.commoninja.com/sdk/latest/commonninja.js" defer></script>
+<div class="commonninja_component pid-b7667d69-ee27-4a2f-b27b-a947daa6a325"></div>

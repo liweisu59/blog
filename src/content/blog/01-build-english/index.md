@@ -125,3 +125,8 @@ Thanks for Andy, my teacher in Meten, who suggest me learn it this way.
 - [x] Minecraft (the cultural impact it had on younger generations)
 - [x] Monopoly (reflects capitalist ideals and the importance of strategy in American culture)
 - [x] The Game of Life (simulates decision-making in life, reflecting American values)
+
+## Comments
+
+<script src="https://cdn.commoninja.com/sdk/latest/commonninja.js" defer></script>
+<div class="commonninja_component pid-b7667d69-ee27-4a2f-b27b-a947daa6a325"></div>
