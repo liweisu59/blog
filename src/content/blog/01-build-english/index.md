@@ -1,10 +1,12 @@
 ---
-title: "Build English From Ground"
+title: "[Archive]Build English From Ground"
 description: "Jump into English!"
 date: "Apr 1 2025"
 ---
 
 ![build language from kid](banner.png)
+
+> This post is tagged as archive, for it's only a way for students, not for worker.
 
 For improving my knowledge and English, I decide to follow the timeline, walk through the raise-up experience like a American boy born in 00s.
 

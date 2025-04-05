@@ -10,7 +10,6 @@ Reading to me, is to answer the questions in mind, and practise them on earth.
 ## How to remember better?
 - [x] Unlimited Memory
 - [x] Moon walking with Einstein
-- [ ] Measure what matters
 - [ ] Use your memory
 - [ ] The Memory Book
 - [x] Memory craft
@@ -31,6 +30,10 @@ Reading to me, is to answer the questions in mind, and practise them on earth.
 - [x] Goodbye phone, hello world
 - [x] How to break up with your phone
 - [x] Indistractable
+
+## How to think clear?
+- [ ] Measure what matters
+
 
 ## Comments
 
