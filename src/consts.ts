@@ -40,5 +40,9 @@ export const SOCIALS: Socials = [
   {
     NAME: "youtube",
     HREF: "https://www.youtube.com/channel/UCkv-YKowhQK1QItzXCqUQ0A",
+  },
+  {
+    NAME: "phone",
+    HREF: "tel:+86-177-2450-1117",
   }
 ];
