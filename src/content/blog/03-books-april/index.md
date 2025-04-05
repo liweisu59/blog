@@ -8,12 +8,12 @@ video: "not yet"
 Reading to me, is to answer the questions in mind, and practise them on earth.
 
 ## How to remember better?
-- [ ] Unlimited Memory
-- [ ] Moon walking with Einstein
+- [x] Unlimited Memory
+- [x] Moon walking with Einstein
 - [ ] Measure what matters
 - [ ] Use your memory
 - [ ] The Memory Book
-- [ ] Memory craft
+- [x] Memory craft
 
 ## How to learn fast and better?
 - [ ] The power of habit
@@ -23,14 +23,14 @@ Reading to me, is to answer the questions in mind, and practise them on earth.
 - [ ] Use your head
 
 ## How to quit porn?
-- [ ] Your brain on porn
-- [ ] The porn trap
+- [x] Your brain on porn
+- [x] The porn trap
 
 ## How to quit digital addition?
-- Digital minimalism
-- Goodbye phone, hello world
-- How to break up with your phone
-- Indistractable
+- [x] Digital minimalism
+- [x] Goodbye phone, hello world
+- [x] How to break up with your phone
+- [x] Indistractable
 
 ## Comments
 
